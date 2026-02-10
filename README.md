@@ -5,6 +5,10 @@ When 3D printers first came out, they were much more complicated then they're no
 ### Hardware
 [ ] 1x 12000 RPM 48V 200W Spindle Motor
 [ ] 
+[ ] 1x CCMHCN 15A 6-90V PWM DC Motor Speed Control Module
+[ ] 
+[ ] 1x DC-DC 1200W Voltage Booster
+[ ] 
 [ ] 3x 17HS3401 Nema 17 Step Motor
 [ ] 
 [ ] 3x A4988 Motor Driver
