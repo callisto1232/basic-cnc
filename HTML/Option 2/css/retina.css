@@ -1,0 +1,59 @@
+/**
+ * @package WordPress
+ * @subpackage Law Business
+ * @since Law Business 1.0
+ * 
+ * High Resolution (Retina) Displays CSS Rules
+ * Created by CMSMasters
+ * 
+ */
+
+
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5), 
+	only screen and (-moz-min-device-pixel-ratio: 1.5), 
+	only screen and (-o-min-device-pixel-ratio: 3/2), 
+	only screen and (min-device-pixel-ratio: 1.5) {
+	
+	.s_cat_filter.button span {
+		background-image:url(../img/retina/filter@2x.png);
+		background-size:16px 31px;
+	}
+	
+	.cmsms_imagelink,
+	.cmsms_link {
+		background-image:url(../img/retina/services_link@2x.png);
+		background-size:32px 64px;
+	}
+	
+	.rev_slider_wrapper .tp-leftarrow.default:before,
+	.rev_slider_wrapper .tp-rightarrow.default:before {
+		background-image:url(../img/retina/rev_slider_arrow@2x.png);
+		background-size:20px 40px;
+	}
+	
+	.box.error_box tr td:first-child {
+		background-image:url(../img/retina/error@2x.png);
+		background-size:60px 43px;
+	}
+
+	.box.success_box tr td:first-child {
+		background-image:url(../img/retina/success@2x.png);
+		background-size:60px 43px;
+	}
+
+	.box.notice_box tr td:first-child {
+		background-image:url(../img/retina/notice@2x.png);
+		background-size:60px 43px;
+	}
+
+	.box.warning_box tr td:first-child {
+		background-image:url(../img/retina/warning@2x.png);
+		background-size:60px 43px;
+	}
+
+	.box.download_box tr td:first-child {
+		background-image:url(../img/retina/download@2x.png);
+		background-size:60px 43px;
+	}
+	
+}

@@ -1,0 +1,277 @@
+﻿
+body, li p, .testimonial .cmsmsLike, .testimonial .cmsms_comments {
+    font: 13px/20px Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+.colored_button {
+    font-family: "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+a {
+    font: 13px/20px Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+#navigation > li > a {
+    font: 16px/20px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+#navigation ul li a {
+    font: 12px/24px Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+#navigation ul li {
+}
+#navigation ul li a:hover, #navigation ul li:hover > a, #navigation ul li.current_page_item > a, #navigation ul li.current-menu-ancestor > a {
+}
+h1, h1 a, .logo .title {
+    font: 34px/42px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+h2, h2 a, .post .entry-title, .post .entry-title a {
+    font: 26px/32px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+h3, h3 a, #reply-title, .search .entry-title, .search .entry-title a, .archive .entry-title, .archive .entry-title a, .cmsms_sitemap > li > a {
+    font: 20px/28px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+h4, h4 a, .cmsms_sitemap > li > ul > li > a {
+    font: 18px/24px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+    text-transform: uppercase;
+}
+h5, h5 a, .post type-post .entry-title, .post type-post .entry-title a, #bottom .widgettitle, #bottom .widgettitle a {
+    font: 16px/22px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+h6, h6 a, .product .entry-title, .product .entry-title a, .shop_table.cart thead th, .cart_totals table th, .shop_table th, ul.order_details li > span {
+    font: 14px/20px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+    text-transform: uppercase;
+}
+.services_inner .entry-title {
+    font-family: "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+q, blockquote {
+    font: 15px/24px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+span.dropcap2 {
+    font: 36px/40px "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+span.dropcap {
+    font-family: "Playfair Display",Verdana,Geneva,"DejaVu Sans",sans-serif;
+    font-size: 28px;
+    line-height: 54px;
+}
+code {
+    font: 13px/18px Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+small, small a {
+    font: 12px/20px Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+.skill_item_colored > span {
+    font-family: Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+input, input[type="submit"], textarea, select, option {
+    font: 13px/20px Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+#footer, .bottom_inner, .bottom_inner code, .bottom_inner small, .bottom_inner abbr {
+    font: 12px/18px Verdana,Geneva,"DejaVu Sans",sans-serif;
+}
+q::before, blockquote::before {
+    font-size: 72px;
+    line-height: 18px;
+}
+body, .widget del .amount, .header_html a:hover, .header_html .contact_widget_email a, .header_html .contact_widget_email a:hover {
+    color: #7e7e7e;
+}
+.bottom_inner h1, .bottom_inner h2.widgettitle, .bottom_inner h3, .bottom_inner h4, .bottom_inner h5, .bottom_inner h6, .bottom_inner .widget .product_list_widget li > a, .bottom_inner .widget.widget_shopping_cart .widget_shopping_cart_content .total .amount {
+    color: #ffffff;
+}
+.bottom_inner, .bottom_inner code, .bottom_inner small, .bottom_inner abbr, .bottom_inner .widget del .amount, #bottom .star-rating::before {
+    color: #8d8d8d;
+}
+a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .tl_author, .service_navi a:hover, .cmsms_comments:hover::before, .cmsmsLike:hover span::after, .jp-playlist li.jp-playlist-current div a, .jp-playlist li div a:hover {
+    color: #ea2e0d;
+}
+a:hover, .jp-playlist li div a, .service_navi a {
+    color: #000000;
+}
+#footer a, .bottom_inner a {
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 18px;
+}
+#footer a:hover, .bottom_inner a:hover {
+    color: #ea2e0d;
+}
+.button, .button_medium, .button_large, .button_small, #cancel-comment-reply-link, #submit, input[type="submit"] {
+    font-family: "Playfair Display",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+q::before, blockquote::before, ul.s_filter_list li a, .cmsms_details_links a, .service .cmsms_share, .more_button, .service_navi a, .services_inner .entry-title a, .services_inner .entry-title, .cmsms_info .cmsms_month_day, .cmsms_info .cmsms_year, .post_inner .entry-title, .post_inner .entry-title a, .blog .post .more_button, .blog .post footer.entry-meta, .blog .post footer.entry-meta a, .blog .format-quote .entry-excerpt, .format-aside .cmsms_post_format_img::before, .format_link, .comment-reply-link, .tabs li a, .related_posts li a, .tog, .tour li a, .pricing_footer span, .table thead th, .table tfoot, .chart .percentage_inner span, .chart .percentage_inner small, .chart .label, .cmsms_sitemap a, .cmsms_timeline_title, .widget .tl-content::before, .cmsms_latest_bottom_tweets_inner, .percent_item_colored_wrap, .post_inner > .published > .cmsms_post_day {
+    font-family: "Playfair Display",Arial,Helvetica,"Nimbus Sans L",sans-serif;
+}
+#navigation li > a, #navigation li.current_page_ancestor > a, #navigation li.current-menu-ancestor > a, #navigation li.current_page_item > a, #navigation > li.current_page_item > a, #navigation > li.current-menu-ancestor > a, #navigation > li.current_page_item > a:hover, #navigation > li.current_page_ancestor > a:hover, #navigation > li.current-menu-ancestor > a:hover, #navigation li li:hover > a:hover, #navigation ul li:hover > a {
+    color: #000000;
+}
+#navigation > li > a:hover, 
+#navigation > li.current_page_ancestor > a, 
+#navigation > li.current-menu-ancestor > a, 
+#navigation > li.current-menu-ancestor > a:hover,
+#navigation .current_page_item > a > span{
+    color: #ea2e0d;
+}
+#navigation li li > a {
+    color: #7e7e7e;
+}
+#navigation > li.current_page_item > a, #navigation > li.current_page_ancestor > a, #navigation > li.current-menu-ancestor > a, #navigation > li.current_page_item > a:hover, #navigation > li.current_page_ancestor > a:hover, #navigation > li.current-menu-ancestor > a:hover {
+}
+#navigation > #line::before {
+}
+a:hover {
+    color: #000000;
+}
+#navigation li > a, #navigation li.current_page_ancestor > a, #navigation li.current-menu-ancestor > a, #navigation li.current_page_item > a, #navigation > li.current_page_item > a, #navigation > li.current_page_ancestor > a, #navigation > li.current-menu-ancestor > a, #navigation > li.current_page_item > a:hover, #navigation > li.current_page_ancestor > a:hover, #navigation > li.current-menu-ancestor > a:hover, #navigation li li:hover > a:hover, #navigation ul li:hover > a {
+    border-bottom-color: #ea2e0d;
+}
+#navigation > #line, .rev_slider_wrapper .tp-leftarrow.default:hover::before, .rev_slider_wrapper .tp-rightarrow.default:hover::before, .tp-bullets.tp-thumbs .bullet.selected {
+}
+h1, h1 a, .logo {
+    color: #000000;
+}
+h2, h2 a {
+    color: #000000;
+}
+h3, h3 a, .cmsms_sitemap > li > a {
+    color: #000000;
+}
+h4, h4 a, .cmsms_sitemap > li > ul > li > a {
+    color: #000000;
+}
+h5, h5 a {
+    color: #000000;
+}
+h6, h6 a, #reply-title, .cmsms_timeline .entry-title a, .cmsms_dynamic_cart .widget_shopping_cart_content .cart_list li a, .cmsms_dynamic_cart .widget_shopping_cart_content .total .amount, .product .woocommerce-tabs table.shop_attributes th, .shop_table.cart thead th, .cart_totals table th, .widget .product_list_widget li > a, .widget.widget_shopping_cart .widget_shopping_cart_content .total .amount, .form-row label, .shop_table th, ul.order_details li > span, .format-quote .entry-excerpt {
+    color: #000000;
+}
+q, blockquote {
+    color: #989898;
+}
+span.dropcap2, .tl_company, .percentage span, .chart .label {
+    color: #000000;
+}
+span.dropcap, .tweets_icon::before, #bottom #wp-calendar #today, #bottom .button_small:hover, #bottom .cmsms-form-builder .check_parent input[type="checkbox"] + label::after, #bottom .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="checkbox"]:checked + span.wpcf7-list-item-label::before, #bottom .cmsms-form-builder .check_parent input[type="checkbox"]:checked + label::before, #bottom .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="radio"]:checked + span.wpcf7-list-item-label::before {
+    color: #ffffff;
+}
+.cmsms_latest_bottom_tweets_inner a:hover {
+    color: #000000;
+}
+code {
+    color: #7e7e7e;
+}
+small {
+    color: #7e7e7e;
+}
+input, textarea, select, option, select option {
+    color: #7e7e7e;
+}
+.wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="checkbox"] + span.wpcf7-list-item-label::after, .cmsms-form-builder .check_parent input[type="checkbox"] + label::after, .checkout #shiptobilling input[type="checkbox"] + label::after {
+    color: #000;
+}
+#footer {
+    color: #8d8d8d;
+}
+.tog:hover .cmsms_plus, .tog.current .cmsms_plus, ul.s_filter_list li a.current, ul.s_filter_list li a:hover, .cmsms_post_format_img, ul.page-numbers span, #cmsms_latest_bottom_tweets, .related_posts li.current a, .related_posts li.current a:hover, .tabs.active li.current a, .tabs.active li.current a:hover, .tabs li.current a, .tour li.current a, .tour.active li.current a, #bottom .button_small:hover, #bottom .widget_custom_popular_services_entries header, #bottom .widget_custom_latest_services_entries header, .bottom_inner .cmsms_content_prev_slide:hover, .bottom_inner .cmsms_content_next_slide:hover, #navigation > li.current-menu-item::before, #navigation > li.current-menu-parent::before, #navigation > li.current-menu-ancestor::before, .ls-lawbusiness .ls-nav-stop:hover::before, .ls-lawbusiness .ls-nav-stop:hover::after, .ls-lawbusiness .ls-nav-stop.ls-nav-stop-active::before, .ls-lawbusiness .ls-nav-stop.ls-nav-stop-active::after, .ls-lawbusiness .ls-bottom-slidebuttons a:hover, .ls-lawbusiness .ls-bottom-slidebuttons a.ls-nav-active, .widget_custom_recent_testimonials_entries .cmsms_content_prev_slide:hover, .widget_custom_recent_testimonials_entries .cmsms_content_next_slide:hover, .widget_custom_latest_services_entries .cmsms_content_prev_slide:hover, .widget_custom_latest_services_entries .cmsms_content_next_slide:hover, .widget_custom_popular_services_entries .cmsms_content_prev_slide:hover, .widget_custom_popular_services_entries .cmsms_content_next_slide:hover, .widget_custom_recent_testimonials_entries .cmsms_content_prev_slide:hover:active::before, .widget_custom_recent_testimonials_entries .cmsms_content_next_slide:hover:active::before, .widget_custom_latest_services_entries .cmsms_content_prev_slide:hover:active::before, .widget_custom_latest_services_entries .cmsms_content_next_slide:hover:active::before, .widget_custom_popular_services_entries .cmsms_content_prev_slide:hover:active::before, .widget_custom_popular_services_entries .cmsms_content_next_slide:hover:active::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover:active::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover:active::before, .bottom_inner .widget_custom_recent_testimonials_entries .cmsms_content_prev_slide:hover, .bottom_inner .widget_custom_recent_testimonials_entries .cmsms_content_next_slide:hover, .bottom_inner .widget_custom_latest_services_entries .cmsms_content_prev_slide:hover, .bottom_inner .widget_custom_latest_services_entries .cmsms_content_next_slide:hover, .bottom_inner .widget_custom_popular_services_entries .cmsms_content_prev_slide:hover, .bottom_inner .widget_custom_popular_services_entries .cmsms_content_next_slide:hover, .post_type_shortcode .cmsms_content_prev_slide:hover, .post_type_shortcode .cmsms_content_next_slide:hover, .post_type_shortcode .cmsms_content_prev_slide:hover:active::before, .post_type_shortcode .cmsms_content_next_slide:hover:active::before, .cmsms_content_prev_slide:hover, .cmsms_content_next_slide:hover, .ie8 .services_inner .services_rollover, .post_inner > .published > .cmsms_post_day {
+    background-color: #ea2e0d;
+}
+#bottom, .footer_outer_wrap, .custom_header, .button:hover, .button_small:hover, .button.current, .button_medium:hover, .button_large:hover, .comment-reply-link:hover, #cancel-comment-reply-link:hover, #submit:hover, input[type="submit"]:hover, .cmsms_info .published, .tabs.active li a:hover, .related_posts li a:hover, .tabs li a:hover, .tour li a:hover, .cmsms_plus, .button_medium current, .button_medium.current.reversed, .service_navi .square_prev, .service_navi .square_next, .cmsms_timeline .cmsms_post_format_img, .post_inner > .published > .cmsms_post_month, .cmsms_content_slider_parent ul.cmsms_slides_nav li a, .wrap_person.cmsms_mobile_hover .cmsms_team_rollover, .widget_custom_recent_testimonials_entries .cmsms_content_prev_slide, .widget_custom_recent_testimonials_entries .cmsms_content_next_slide, .widget_custom_latest_services_entries .cmsms_content_prev_slide, .widget_custom_latest_services_entries .cmsms_content_next_slide, .widget_custom_popular_services_entries .cmsms_content_prev_slide, .widget_custom_popular_services_entries .cmsms_content_next_slide, .widget_custom_recent_testimonials_entries .cmsms_content_prev_slide:hover:active, .widget_custom_recent_testimonials_entries .cmsms_content_next_slide:hover:active, .widget_custom_latest_services_entries .cmsms_content_prev_slide:hover:active, .widget_custom_latest_services_entries .cmsms_content_next_slide:hover:active, .widget_custom_popular_services_entries .cmsms_content_prev_slide:hover:active, .widget_custom_popular_services_entries .cmsms_content_next_slide:hover:active, .cmsms-form-builder .check_parent input[type="radio"] + label::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover, .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="radio"] + span.wpcf7-list-item-label::after, .post_type_shortcode .cmsms_content_prev_slide, .post_type_shortcode .cmsms_content_next_slide, .post_type_shortcode .cmsms_content_prev_slide:hover:active, .post_type_shortcode .cmsms_content_next_slide:hover:active, #bottom .widget_custom_popular_services_entries header, #bottom .widget_custom_latest_services_entries header {
+    background-color: #000000;
+}
+#cmsms_latest_bottom_tweets .cmsms_content_prev_slide, #cmsms_latest_bottom_tweets .cmsms_content_next_slide, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover::before, #bottom .cmsms-form-builder .check_parent input[type="radio"] + label::after, #bottom .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="radio"] + span.wpcf7-list-item-label::after {
+    background-color: #ffffff;
+}
+#bottom .button, #bottom .button_small, #bottom .button_medium, #bottom .button_large {
+    background-color: rgba(200, 200, 200, 0.18);
+}
+.services_inner .services_rollover {
+    background: none repeat scroll 0 0 rgba(234, 46, 13, 0.9);
+}
+code {
+    border-color: #ededed;
+}
+input[type="text"]:focus, textarea:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="tel"]:focus, select:focus, .related_posts li.current, .related_posts li.current:hover, .tabs.active li.current, .tour li.current, .tour li.current a, .tour li.current:hover, .tour li.current a:hover, ul.s_filter_list li a.current, ul.s_filter_list li a:hover, .payment_methods li input[type="radio"]:checked + label::before, #bottom .cmsms-form-builder .check_parent input[type="radio"]:checked + label::before, .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="radio"]:checked + span.wpcf7-list-item-label::before, .cmsms-form-builder .check_parent input[type="radio"]:checked + label::before, .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="checkbox"]:checked + span.wpcf7-list-item-label::before, .checkout #shiptobilling input[type="checkbox"]:checked + label::before, .cmsms-form-builder .check_parent input[type="checkbox"]:checked + label::before, #bottom .widget_custom_flickr_entries .flickr_badge_image a:hover {
+    border-color: #ea2e0d;
+}
+.related_posts li:hover, .tour li:hover, .tour li a:hover, .tabs li:hover {
+    border-color: #000000;
+}
+.widget_author_wrap::before, #bottom .widget_custom_twitter_entries .tweet_time a::before, #bottom .wpcf7 form.wpcf7-form span.wpcf7-list-item input[type="checkbox"] + span.wpcf7-list-item-label::after, .cmsms_our_team_wrap .entry-header .person_subtitle, .service_title a:hover, .star-rating span::before, .pp_inline #commentform .stars span a::before, .widget .product_list_widget li > a:hover {
+    color: #ea2e0d;
+}
+q::before, blockquote::before, .cmsms_timeline .entry-title, .cmsms_timeline .entry-title a, .cmsmsLike:hover span::before, .cmsmsLike.active span::before, .widget .tl-content::before, #wp-calendar #today, .pricing_footer span, label .required, .error h1, .color_3 {
+    color: #ea2e0d;
+}
+code, #navigation > li > ul, .cmsms_content_prev_slide:hover:active::after, .cmsms_content_prev_slide:hover:active span::before, .cmsms_content_prev_slide:hover:active span::after, .cmsms_content_next_slide:hover:active::after, .cmsms_content_next_slide:hover:active span::before, .cmsms_content_next_slide:hover:active span::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide span::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide span::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide span::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide span::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover:active::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover:active span::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover:active span::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover:active::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover:active span::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover:active span::after {
+    border-top-color: #ea2e0d;
+}
+#cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover span::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover span::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover span::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover span::after {
+    border-top-color: #ffffff;
+}
+.cmsms_content_prev_slide:hover:active::after, .cmsms_content_prev_slide:hover:active span::before, .cmsms_content_prev_slide:hover:active span::after, .cmsms_content_next_slide:hover:active::after, .cmsms_content_next_slide:hover:active span::before, .cmsms_content_next_slide:hover:active span::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide span::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide span::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide span::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide span::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover:active::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover:active span::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover:active span::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover:active::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover:active span::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover:active span::after {
+    border-bottom-color: #ea2e0d;
+}
+#cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover::after, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover span::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide:hover span::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover::after, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover span::before, #cmsms_latest_bottom_tweets .cmsms_content_next_slide:hover span::after {
+    border-bottom-color: #ffffff;
+}
+.ls-law business .ls-nav-start:hover, .ls-law business .ls-nav-stop:hover {
+    border-left-color: #ea2e0d !important;
+    border-right-color: #ea2e0d !important;
+}
+.ls-lawbusiness .ls-nav-start:hover::before, .ls-lawbusiness .ls-nav-start.ls-nav-start-active::before {
+    border-left-color: #ea2e0d !important;
+}
+.button, .button_small, .button_medium, .button_large, span.dropcap, .title_icon, .responsive_nav:hover span, .responsive_nav:hover span::before, .responsive_nav:hover span::after, .responsive_nav.active span, .responsive_nav.active span::before, .responsive_nav.active span::after, .cmsms_content_slider_parent ul.cmsms_slides_nav li.active a, .cmsms_content_slider_parent ul.cmsms_slides_nav li a:hover, .cmsms_timeline article:hover .cmsms_post_format_img, .ls-law business .ls-bottom-slidebuttons a.ls-nav-active, .ls-law business .ls-bottom-slidebuttons a:hover, .ls-law business .ls-nav-prev:hover::before, .ls-law business .ls-nav-next:hover::before, .cmsms_pricing_table.current .cmsms_price_outer, #cmsms_latest_bottom_tweets .cmsms_content_next_slide::before, #cmsms_latest_bottom_tweets .cmsms_content_prev_slide::before, .comment-reply-link, #cancel-comment-reply-link, #submit, input[type="submit"] {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(1):hover a {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(2):hover a {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(3):hover a {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(4):hover a {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(5):hover a {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(6):hover a {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(7):hover a {
+    background-color: #ea2e0d;
+}
+.social_icons li:nth-child(8):hover a {
+    background-color: #ea2e0d;
+}
+.custom_header_inner .social_icons li:nth-child(1):hover a {
+    background-color: #ea2e0d;
+}
+.custom_header_inner .social_icons li:nth-child(2):hover a {
+    background-color: #ea2e0d;
+}
+.custom_header_inner .social_icons li:nth-child(3):hover a {
+    background-color: #ea2e0d;
+}
+.custom_header_inner .social_icons li:nth-child(4):hover a {
+    background-color: #ea2e0d;
+}
+.custom_header_inner .social_icons li:nth-child(5):hover a {
+    background-color: #ea2e0d;
+}
+@media only screen and (max-width: 1024px) {
+#navigation li a {
+    font-family: Verdana,arial;
+    font-size: 13px;
+}
+.cmsms_responsive #navigation > li.current_page_item > a, .cmsms_responsive #navigation > li.current_page_ancestor > a, .cmsms_responsive #navigation > li.current-menu-ancestor > a, .cmsms_responsive #navigation > li.current_page_item > a:hover, .cmsms_responsive #navigation > li.current_page_ancestor > a:hover, .cmsms_responsive #navigation > li.current-menu-ancestor > a:hover {
+}
+#navigation li a, #navigation ul li a {
+    color: #7e7e7e !important;
+}
+#navigation li a:hover, #navigation ul li a:hover, #navigation li.dropdown > a.drop_active span, #navigation li.current_page_item > a, #navigation li.current-menu-ancestor > a, #navigation ul li.current_page_item > a, #navigation ul li.current-menu-ancestor > a {
+    color: #ea2e0d !important;
+}
+}
